@@ -173,6 +173,7 @@ int aftrerlength;
                     MaterialPageRoute(
                         builder: (context) => total(
                               totalspent: int.parse(_totalController.text),
+                          spentBy: _spentbycontroller.text,
                             )),
                   );
                 },
