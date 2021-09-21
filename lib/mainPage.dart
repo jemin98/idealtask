@@ -143,7 +143,7 @@ int aftrerlength;
                             name.add(_spentbycontroller.text);
                             List vae =
                             LinkedHashSet<String>.from(isadd).toList();
-                            print(vae);
+
                           }
                         }
                         setitem();
@@ -194,3 +194,8 @@ int aftrerlength;
     );
   }
 }
+
+// Flutter 1.22.4 • channel stable • https://github.com/flutter/flutter.git
+// Framework • revision 1aafb3a8b9 (10 months ago) • 2020-11-13 09:59:28 -0800
+// Engine • revision 2c956a31c0
+// Tools • Dart 2.10.4
